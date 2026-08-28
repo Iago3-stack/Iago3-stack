@@ -6,7 +6,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-## 🚀 O que estou construindo
+## Projeto em destaque
 
 **[AI Bug Triage System](https://github.com/Iago3-stack/ai-bug-triage-system)** — triagem inteligente de bugs de QA:
 
@@ -24,7 +24,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-## 🎓 Formação e vivência
+## Formação e vivência
 
 - **Graduação em IA & Machine Learning** — UNIASSELVI (conclusão: **Dez/2027**)
 - Carreira administrativa (Auxiliar Administrativo): rotinas, documentação e atendimento — a base que sustenta a comunicação do trabalho técnico
