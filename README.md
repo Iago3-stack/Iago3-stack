@@ -14,7 +14,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 - Análise de **causa raiz** via **Google Gemini** (JSON estruturado + fallback entre modelos)
 - Prioridade **reconciliada** entre os dois motores (nada de falso alerta ignorado)
 - Relatório **Gherkin** pronto para copiar no Jira/GitHub
-- **Publicado e funcionando:** [ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
+- **Publicado e funcionando:** [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 
 ---
 
@@ -34,7 +34,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ## 📬 Contato
 
-- Av. do portfólio: [ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
+- Portfólio: [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 - LinkedIn: [in/iago-nunes](https://www.linkedin.com/in/iago-nunes-897a5832b/)
 - WhatsApp: +55 98 98591-4235
 - GitHub: [Iago3-stack](https://github.com/Iago3-stack)
