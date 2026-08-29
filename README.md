@@ -77,10 +77,15 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=64&section=header&text=Contato&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
 </div>
 
-- 🌐 Portfólio: [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
-- 🔗 LinkedIn: [in/iago-nunes](https://www.linkedin.com/in/iago-nunes-897a5832b/)
-- 💬 WhatsApp: [+55 98 98591-4235](https://wa.me/5598985914235?text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!%20)
-- 🐙 GitHub: [Iago3-stack](https://github.com/Iago3-stack)
+Navegue pelo canal que preferir — resposta rápida e direta. Deixa um salve! 👋
+
+<div align="center">
+  <a href="https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FF4B4B?style=for-the-badge&logo=streamlit" /></a>
+  <a href="https://www.linkedin.com/in/iago-nunes-897a5832b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://wa.me/5598985914235?text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://github.com/Iago3-stack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:iagonunes513@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail" /></a>
+</div>
 
 ---
 
