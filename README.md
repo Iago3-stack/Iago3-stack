@@ -70,7 +70,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 - 🌐 Portfólio: [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 - 🔗 LinkedIn: [in/iago-nunes](https://www.linkedin.com/in/iago-nunes-897a5832b/)
-- 💬 WhatsApp: +55 98 98591-4235
+- 💬 WhatsApp: [+55 98 98591-4235](https://wa.me/5598985914235?text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!%20)
 - 🐙 GitHub: [Iago3-stack](https://github.com/Iago3-stack)
 
 ---
