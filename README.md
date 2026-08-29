@@ -18,7 +18,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=64&section=header&text=🚀%20Projetos&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=64&section=header&text=Projetos&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
 </div>
 
 **[AI Bug Triage System](https://github.com/Iago3-stack/ai-bug-triage-system)** — triagem inteligente de bugs de QA:
@@ -36,7 +36,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=64&section=header&text=🛠️%20Skills%20(Foco%20IA/QA)&fontSize=24&fontColor=fff&fontAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=64&section=header&text=Skills%20-%20Foco%20IA%2FQA&fontSize=24&fontColor=fff&fontAlignY=58" width="100%" />
 </div>
 
 <div align="center">
@@ -53,7 +53,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=64&section=header&text=🎓%20Formação&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=64&section=header&text=Formação&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
 </div>
 
 - **Graduação em IA & Machine Learning** — UNIASSELVI (conclusão: **Dez/2027**)
@@ -63,7 +63,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=64&section=header&text=📬%20Contato&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=64&section=header&text=Contato&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
 </div>
 
 - Portfólio: [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
