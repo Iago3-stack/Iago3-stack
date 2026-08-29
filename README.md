@@ -17,7 +17,9 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-<h2>🚀 <span style="color:#2E7CF6">Projetos</span></h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=64&section=header&text=🚀%20Projetos&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
+</div>
 
 **[AI Bug Triage System](https://github.com/Iago3-stack/ai-bug-triage-system)** — triagem inteligente de bugs de QA:
 
@@ -33,7 +35,9 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-<h2>🛠️ <span style="color:#8E75B2">Skills em desenvolvimento (foco IA/QA)</span></h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=64&section=header&text=🛠️%20Skills%20(Foco%20IA/QA)&fontSize=24&fontColor=fff&fontAlignY=58" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +52,9 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-<h2>🎓 <span style="color:#E8590C">Formação</span></h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=64&section=header&text=🎓%20Formação&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
+</div>
 
 - **Graduação em IA & Machine Learning** — UNIASSELVI (conclusão: **Dez/2027**)
 - Carreira administrativa (Auxiliar Administrativo): rotinas, documentação e atendimento — a base que sustenta a comunicação do trabalho técnico
@@ -56,7 +62,9 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-<h2>📬 <span style="color:#25D366">Contato</span></h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=64&section=header&text=📬%20Contato&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
+</div>
 
 - Portfólio: [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 - LinkedIn: [in/iago-nunes](https://www.linkedin.com/in/iago-nunes-897a5832b/)
