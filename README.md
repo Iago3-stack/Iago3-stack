@@ -4,6 +4,13 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 🟢 **Disponível para vagas e programas** em IA, QA e automação.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iago3-stack&show_icons=true&theme=transparent&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Iago3-stack&theme=transparent&hide_border=true" width="42%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago3-stack&layout=compact&theme=transparent&hide_border=true" width="42%" />
+</div>
+
 ---
 
 ## 🚀 Projetos
@@ -15,6 +22,10 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 - Prioridade **reconciliada** entre os dois motores (nada de falso alerta ignorado)
 - Relatório **Gherkin** pronto para copiar no Jira/GitHub
 - **Publicado e funcionando:** [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iago3-stack&repo=ai-bug-triage-system&theme=transparent&hide_border=true" width="45%" />
+</div>
 
 ---
 
