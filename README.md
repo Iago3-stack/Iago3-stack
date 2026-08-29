@@ -58,9 +58,9 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=64&section=header&text=Formação&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
 </div>
 
-- **Graduação em IA & Machine Learning** — UNIASSELVI (conclusão: **Dez/2027**)
-- Carreira administrativa (Auxiliar Administrativo): rotinas, documentação e atendimento — a base que sustenta a comunicação do trabalho técnico
-- Vivência cívica: voluntariado como mesário (TRE-MA) e apoio a cartórios (TJMA)
+- 🎓 **Graduação em IA & Machine Learning** — UNIASSELVI (conclusão: **Dez/2027**)
+- 💼 Carreira administrativa (Auxiliar Administrativo): rotinas, documentação e atendimento — a base que sustenta a comunicação do trabalho técnico
+- 🌱 Vivência cívica: voluntariado como mesário (TRE-MA) e apoio a cartórios (TJMA)
 
 ---
 
@@ -68,10 +68,10 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=64&section=header&text=Contato&fontSize=26&fontColor=fff&fontAlignY=58" width="100%" />
 </div>
 
-- Portfólio: [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
-- LinkedIn: [in/iago-nunes](https://www.linkedin.com/in/iago-nunes-897a5832b/)
-- WhatsApp: +55 98 98591-4235
-- GitHub: [Iago3-stack](https://github.com/Iago3-stack)
+- 🌐 Portfólio: [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
+- 🔗 LinkedIn: [in/iago-nunes](https://www.linkedin.com/in/iago-nunes-897a5832b/)
+- 💬 WhatsApp: +55 98 98591-4235
+- 🐙 GitHub: [Iago3-stack](https://github.com/Iago3-stack)
 
 ---
 
