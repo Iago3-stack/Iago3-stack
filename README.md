@@ -1,5 +1,9 @@
 ### Olá, eu sou Iago Nunes 👋
 
+<a href="https://github.com/Iago3-stack">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=2E7CF6&center=true&vCenter=true&width=720&lines=Construo+automa%C3%A7%C3%A3o+de+QA+com+IA;NLP+offline+(portugu%C3%AAs)+%2B+LLMs+Google+Gemini;Python+%C2%B7+Streamlit+%C2%B7+Git+%C2%B7+Linux;Em+transi%C3%A7%C3%A3o+para+IA+%26+ML+%E2%80%93+UNIASSELVI+%28Dez%2F2027%29" alt="Typing SVG" />
+</a>
+
 Automação de QA construída com IA. Combinei NLP em português com LLMs (Google Gemini) em um motor de triagem de bugs — publicado na nuvem e com fallback automático entre modelos.
 
 🟢 **Disponível para vagas e programas** em IA, QA e automação.
