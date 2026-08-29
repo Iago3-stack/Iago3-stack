@@ -17,7 +17,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-## 🚀 Projetos
+<h2>🚀 <span style="color:#2E7CF6">Projetos</span></h2>
 
 **[AI Bug Triage System](https://github.com/Iago3-stack/ai-bug-triage-system)** — triagem inteligente de bugs de QA:
 
@@ -33,7 +33,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-## 🛠️ Skills em desenvolvimento (foco IA/QA)
+<h2>🛠️ <span style="color:#8E75B2">Skills em desenvolvimento (foco IA/QA)</span></h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-## 🎓 Formação
+<h2>🎓 <span style="color:#E8590C">Formação</span></h2>
 
 - **Graduação em IA & Machine Learning** — UNIASSELVI (conclusão: **Dez/2027**)
 - Carreira administrativa (Auxiliar Administrativo): rotinas, documentação e atendimento — a base que sustenta a comunicação do trabalho técnico
@@ -56,7 +56,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ---
 
-## 📬 Contato
+<h2>📬 <span style="color:#25D366">Contato</span></h2>
 
 - Portfólio: [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 - LinkedIn: [in/iago-nunes](https://www.linkedin.com/in/iago-nunes-897a5832b/)
