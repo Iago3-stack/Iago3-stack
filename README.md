@@ -25,11 +25,11 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 **[AI Bug Triage System](https://github.com/Iago3-stack/ai-bug-triage-system)** — triagem inteligente de bugs de QA:
 
-- Motor **NLP offline** (léxico PT + detecção de negação, 100% determinístico)
-- Análise de **causa raiz** via **Google Gemini** (JSON estruturado + fallback entre modelos)
-- Prioridade **reconciliada** entre os dois motores (nada de falso alerta ignorado)
-- Relatório **Gherkin** pronto para copiar no Jira/GitHub
-- **Publicado e funcionando:** [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
+- 🟢 Motor **NLP offline** (léxico PT + detecção de negação, 100% determinístico)
+- 🟣 Análise de **causa raiz** via **Google Gemini** (JSON estruturado + fallback entre modelos)
+- 🔵 Prioridade **reconciliada** entre os dois motores (nada de falso alerta ignorado)
+- 🟠 Relatório **Gherkin** pronto para copiar no Jira/GitHub
+- ✅ **Publicado e funcionando:** [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Iago3-stack&repo=ai-bug-triage-system&theme=tokyonight&hide_border=true" width="45%" />
