@@ -35,7 +35,16 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 
 ## 🛠️ Skills em desenvolvimento (foco IA/QA)
 
-`Python` · `NLP (português)` · `LLMs (Google Gemini)` · `JSON estruturado` · `Streamlit` · `Git & GitHub` · `Linux` · `pandas`
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP_(PT)-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
 
 ---
 
