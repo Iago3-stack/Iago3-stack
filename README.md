@@ -17,6 +17,15 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Iago3-stack&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </div>
 
+<div align="center">
+  🏆 **Conquistas**
+  <br/><br/>
+  <a href="https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/"><img src="https://img.shields.io/badge/App%20no%20ar-2E7CF6?style=for-the-badge&logo=streamlit" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release%20v1.0.0-25D366?style=for-the-badge&logo=git" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/pkgs/container/ai-bug-triage-system"><img src="https://img.shields.io/badge/Container%20GHCR-0DB7ED?style=for-the-badge&logo=docker" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/badge/CI%2FCD%20publicado%20via%20Actions-8A2BE2?style=for-the-badge&logo=githubactions" /></a>
+</div>
+
 ---
 
 <div align="center">
