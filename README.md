@@ -80,11 +80,11 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 Navegue pelo canal que preferir — resposta rápida e direta. Deixa um salve! 👋
 
 <div align="center">
-  <a href="https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FF4B4B?style=for-the-badge&logo=streamlit" /></a>
-  <a href="https://www.linkedin.com/in/iago-nunes-897a5832b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://wa.me/5598985914235?text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" /></a>
-  <a href="https://github.com/Iago3-stack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:iagonunes513@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iago-nunes-897a5832b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/5598985914235?text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/Iago3-stack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:iagonunes513@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
