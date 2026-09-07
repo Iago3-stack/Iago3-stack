@@ -46,7 +46,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Iago3-stack&repo=ai-bug-triage-system&theme=tokyonight&hide_border=true" width="45%" />
   <br/><br/>
-  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/github/actions/workflow/status/Iago3-stack/ai-bug-triage-system/ci.yml?style=for-the-badge&label=%E2%9C%85%2061%20testes&color=4CAF50&logo=githubactions&logoColor=white" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fiago3-stack.github.io%2Fai-bug-triage-system%2Fpytest-badge.json&style=for-the-badge&logo=githubactions&logoColor=white&cacheSeconds=300" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/stargazers"><img src="https://img.shields.io/github/stars/Iago3-stack/ai-bug-triage-system?style=for-the-badge&logo=github&logoColor=white&color=2E7CF6&label=Estrelas" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/forks"><img src="https://img.shields.io/github/forks/Iago3-stack/ai-bug-triage-system?style=for-the-badge&logo=git&logoColor=white&color=FF9800&label=Forks" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Iago3-stack/ai-bug-triage-system?style=for-the-badge&color=9C27B0&label=Licen%C3%A7a" /></a>
