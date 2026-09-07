@@ -21,9 +21,9 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
   🏆 **Conquistas**
   <br/><br/>
   <a href="https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/"><img src="https://img.shields.io/badge/App%20no%20ar-2E7CF6?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release%20v1.0.0-25D366?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/releases/latest"><img src="https://img.shields.io/github/v/release/Iago3-stack/ai-bug-triage-system?style=for-the-badge&label=Release&color=25D366&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/github/actions/workflow/status/Iago3-stack/ai-bug-triage-system/ci.yml?style=for-the-badge&label=Testes%20%28CI%29&color=4CAF50&logo=githubactions&logoColor=white" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/pkgs/container/ai-bug-triage-system"><img src="https://img.shields.io/badge/Container%20GHCR-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/badge/CI%2FCD%20publicado%20via%20Actions-F6821D?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
 </div>
 
 ---
@@ -37,11 +37,23 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 - 🟢 Motor **NLP offline** (léxico PT + detecção de negação, 100% determinístico)
 - 🟣 Análise de **causa raiz** via **Google Gemini** (JSON estruturado + fallback entre modelos)
 - 🔵 Prioridade **reconciliada** entre os dois motores (nada de falso alerta ignorado)
+- 🔗 **Exporta a issue real para o Jira Cloud** via API REST (tipo Tarefa, prioridade mapeada)
+- 🛡️ **Guardrails de PII** — mascara tokens, chaves, e-mails, senhas, telefones e CPFs antes de qualquer envio
+- 📁 **Histórico persistido** em JSONL (snapshot fiel + seletor de data + download .md)
 - 🟠 Relatório **Gherkin** pronto para copiar no Jira/GitHub
 - ✅ **Publicado e funcionando:** [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Iago3-stack&repo=ai-bug-triage-system&theme=tokyonight&hide_border=true" width="45%" />
+  <br/><br/>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/github/actions/workflow/status/Iago3-stack/ai-bug-triage-system/ci.yml?style=for-the-badge&label=%E2%9C%85%2055%20testes&color=4CAF50&logo=githubactions&logoColor=white" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/stargazers"><img src="https://img.shields.io/github/stars/Iago3-stack/ai-bug-triage-system?style=for-the-badge&logo=github&logoColor=white&color=2E7CF6&label=Estrelas" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/forks"><img src="https://img.shields.io/github/forks/Iago3-stack/ai-bug-triage-system?style=for-the-badge&logo=git&logoColor=white&color=FF9800&label=Forks" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Iago3-stack/ai-bug-triage-system?style=for-the-badge&color=9C27B0&label=Licen%C3%A7a" /></a>
+  <br/>
+  <img src="https://img.shields.io/github/languages/top/Iago3-stack/ai-bug-triage-system?style=for-the-badge&logo=python&logoColor=white&label=Linguagem" />
+  <img src="https://img.shields.io/github/last-commit/Iago3-stack/ai-bug-triage-system?style=for-the-badge&label=%C3%9Altima%20atividade&color=607D8B" />
+  <img src="https://img.shields.io/github/repo-size/Iago3-stack/ai-bug-triage-system?style=for-the-badge&label=Tamanho&color=795548" />
 </div>
 
 ---
