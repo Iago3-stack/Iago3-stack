@@ -44,6 +44,17 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 - ✅ **Publicado e funcionando:** [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Triagem%20em%202%20camadas-2E7CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/An%C3%A1lise%20por%20IA%20%28Gemini%29-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prioridade%20reconciliada-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100%25%20offline%20%26%20determin%C3%ADstico-F05032?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exporta%C3%A7%C3%A3o%20%28MD%2FGitHub%2FJira%29-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Guardrails%20de%20PII-E91E63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hist%C3%B3rico%20persistido%20%28JSONL%29-25D366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/55%20testes%20%2B%20CI-4CAF50?style=for-the-badge" />
+</div>
+
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Iago3-stack&repo=ai-bug-triage-system&theme=tokyonight&hide_border=true" width="45%" />
   <br/><br/>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/github/actions/workflow/status/Iago3-stack/ai-bug-triage-system/ci.yml?style=for-the-badge&label=%E2%9C%85%2055%20testes&color=4CAF50&logo=githubactions&logoColor=white" /></a>
