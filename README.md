@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=2E7CF6&center=true&vCenter=true&width=720&lines=Construo+automa%C3%A7%C3%A3o+de+QA+com+IA;NLP+offline+(portugu%C3%AAs)+%2B+LLMs+Google+Gemini;Python+%C2%B7+Streamlit+%C2%B7+Git+%C2%B7+Linux;Em+transi%C3%A7%C3%A3o+para+IA+%26+ML+%E2%80%93+UNIASSELVI+%28Dez%2F2027%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=2E7CF6&center=true&vCenter=true&width=720&lines=Construo+automa%C3%A7%C3%A3o+de+QA+com+IA%3BNLP+offline+%28portugu%C3%AAs%29+%2B+LLMs+Gemini%2FGroq%3BRAG+h%C3%ADbrida+%28BM25+%2B+vetores%29+%2B+evals%3BMLOps%3A+CI%2FCD%2C+deploy+e+webhooks%3BPython+%C2%B7+Streamlit+%C2%B7+Git+%C2%B7+Linux%3BGraduando+IA+%26+ML+%E2%80%93+UNIASSELVI+%28Dez%2F2027%29" alt="Typing SVG" />
 </div>
 
-Automação de QA construída com IA. Combinei NLP em português com LLMs (Google Gemini) em um motor de triagem de bugs — publicado na nuvem e com fallback automático entre modelos.
+QA Automation Engineer · Automação de QA com IA (**NLP em português + LLMs Gemini/Groq**, com fallback automático de modelos). Construo e industrializo agentes de IA ponta a ponta — do discovery à adoção — aplicando **RAG híbrida** (BM25 + vetores com rerank), **evals** (475 testes) e **governança de dados por desenho**. Publiquei o **AI Bug Triage System** em produção ([ai-bug-triage.com.br](https://ai-bug-triage.com.br)), com **MLOps**: CI/CD no GitHub Actions, deploy em nuvem e webhooks de monitoramento.
 
 🟢 **Disponível para vagas e programas** em IA, QA e automação.
 
@@ -20,7 +20,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 <div align="center">
   🏆 **Conquistas**
   <br/><br/>
-  <a href="https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/"><img src="https://img.shields.io/badge/App%20no%20ar-2E7CF6?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://ai-bug-triage.com.br/"><img src="https://img.shields.io/badge/App%20no%20ar-2E7CF6?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/releases/latest"><img src="https://img.shields.io/github/v/release/Iago3-stack/ai-bug-triage-system?style=for-the-badge&label=Release&color=25D366&logo=git&logoColor=white" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/github/actions/workflow/status/Iago3-stack/ai-bug-triage-system/ci.yml?style=for-the-badge&label=Testes%20%28CI%29&color=4CAF50&logo=githubactions&logoColor=white" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/pkgs/container/ai-bug-triage-system"><img src="https://img.shields.io/badge/Container%20GHCR-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
@@ -38,10 +38,13 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 - 🟣 Análise de **causa raiz** via **Google Gemini** (JSON estruturado + fallback entre modelos)
 - 🔵 Prioridade **reconciliada** entre os dois motores (nada de falso alerta ignorado)
 - 🔗 **Exporta a issue real para o Jira Cloud** via API REST (tipo Tarefa, prioridade mapeada)
+- 🧠 **RAG híbrida** (BM25 + embeddings com rerank) — "como foi resolvido" a partir de casos similares
+- 🧪 **Evals**: 475 testes cobrindo severidade, determinismo, negação, PII e ordenação por relevância
+- 🔄 **MLOps**: CI/CD (GitHub Actions), deploy em nuvem e webhook que ativa a cobrança PIX sozinho
 - 🛡️ **Guardrails de PII** — mascara tokens, chaves, e-mails, senhas, telefones e CPFs antes de qualquer envio
 - 📁 **Histórico persistido** em JSONL (snapshot fiel + seletor de data + download .md)
 - 🟠 Relatório **Gherkin** pronto para copiar no Jira/GitHub
-- ✅ **Publicado e funcionando:** [abrir app (streamlit.cloud)](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
+- ✅ **Publicado e funcionando:** [landing (ai-bug-triage.com.br)](https://ai-bug-triage.com.br) · [abrir app](https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/)
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Iago3-stack&repo=ai-bug-triage-system&theme=tokyonight&hide_border=true" width="45%" />
@@ -66,11 +69,15 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP_(PT)-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_(BM25%2Bvetores)-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evals-25D366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentes_%26_Webhooks-2E7CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps_(CI%2FCD)-0DB7ED?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 <div align="center">
@@ -100,7 +107,7 @@ Automação de QA construída com IA. Combinei NLP em português com LLMs (Googl
 Navegue pelo canal que preferir — resposta rápida e direta. Deixa um salve! 👋
 
 <div align="center">
-  <a href="https://ai-bug-triage-system-d6vigycbjt4qxez2wrvsxf.streamlit.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://ai-bug-triage.com.br/"><img src="https://img.shields.io/badge/Landing-25D366?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/iago-nunes-897a5832b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" /></a>
   <a href="https://wa.me/5598985914235?text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/Iago3-stack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
