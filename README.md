@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=2E7CF6&center=true&vCenter=true&width=720&lines=Construo+automa%C3%A7%C3%A3o+de+QA+com+IA%3BNLP+offline+%28portugu%C3%AAs%29+%2B+LLMs+Gemini%2FGroq%3BRAG+h%C3%ADbrida+%28BM25+%2B+vetores%29+%2B+evals%3BMLOps%3A+CI%2FCD%2C+deploy+e+webhooks%3BPython+%C2%B7+Streamlit+%C2%B7+Git+%C2%B7+Linux%3BGraduando+IA+%26+ML+%E2%80%93+UNIASSELVI+%28Dez%2F2027%29" alt="Typing SVG" />
 </div>
 
-QA Automation Engineer · Automação de QA com IA (**NLP em português + LLMs Gemini/Groq**, com fallback automático de modelos). Construo e industrializo agentes de IA ponta a ponta — do discovery à adoção — aplicando **RAG híbrida** (BM25 + vetores com rerank), **evals** (475 testes) e **governança de dados por desenho**. Publiquei o **AI Bug Triage System** em produção ([ai-bug-triage.com.br](https://ai-bug-triage.com.br)), com **MLOps**: CI/CD no GitHub Actions, deploy em nuvem e webhooks de monitoramento.
+QA Automation Engineer · Automação de QA com IA (**NLP em português + LLMs Gemini/Groq**, com fallback automático de modelos). Construo e industrializo agentes de IA ponta a ponta — do discovery à adoção — aplicando **RAG híbrida** (BM25 + vetores com rerank), **evals** (<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fai-bug-triage.com.br%2Fpytest-badge.json&style=flat-square&cacheSeconds=300" alt="Testes CI" />) e **governança de dados por desenho**. Publiquei o **AI Bug Triage System** em produção ([ai-bug-triage.com.br](https://ai-bug-triage.com.br)), com **MLOps**: CI/CD no GitHub Actions, deploy em nuvem e webhooks de monitoramento.
 
 🟢 **Disponível para vagas e programas** em IA, QA e automação.
 
@@ -22,7 +22,7 @@ QA Automation Engineer · Automação de QA com IA (**NLP em português + LLMs G
   <br/><br/>
   <a href="https://ai-bug-triage.com.br/"><img src="https://img.shields.io/badge/App%20no%20ar-2E7CF6?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/releases/latest"><img src="https://img.shields.io/github/v/release/Iago3-stack/ai-bug-triage-system?style=for-the-badge&label=Release&color=25D366&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/github/actions/workflow/status/Iago3-stack/ai-bug-triage-system/ci.yml?style=for-the-badge&label=Testes%20%28CI%29&color=4CAF50&logo=githubactions&logoColor=white" /></a>
+  <a href="https://github.com/Iago3-stack/ai-bug-triage-system/actions"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fai-bug-triage.com.br%2Fpytest-badge.json&style=for-the-badge&logo=githubactions&logoColor=white&cacheSeconds=300" /></a>
   <a href="https://github.com/Iago3-stack/ai-bug-triage-system/pkgs/container/ai-bug-triage-system"><img src="https://img.shields.io/badge/Container%20GHCR-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </div>
 
@@ -39,7 +39,7 @@ QA Automation Engineer · Automação de QA com IA (**NLP em português + LLMs G
 - 🔵 Prioridade **reconciliada** entre os dois motores (nada de falso alerta ignorado)
 - 🔗 **Exporta a issue real para o Jira Cloud** via API REST (tipo Tarefa, prioridade mapeada)
 - 🧠 **RAG híbrida** (BM25 + embeddings com rerank) — "como foi resolvido" a partir de casos similares
-- 🧪 **Evals**: 475 testes cobrindo severidade, determinismo, negação, PII e ordenação por relevância
+- 🧪 **Evals**: <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fai-bug-triage.com.br%2Fpytest-badge.json&style=flat-square&cacheSeconds=300" alt="Testes CI" /> cobrindo severidade, determinismo, negação, PII e ordenação por relevância
 - 🔄 **MLOps**: CI/CD (GitHub Actions), deploy em nuvem e webhook que ativa a cobrança PIX sozinho
 - 🛡️ **Guardrails de PII** — mascara tokens, chaves, e-mails, senhas, telefones e CPFs antes de qualquer envio
 - 📁 **Histórico persistido** em JSONL (snapshot fiel + seletor de data + download .md)
@@ -71,7 +71,7 @@ QA Automation Engineer · Automação de QA com IA (**NLP em português + LLMs G
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG_(BM25%2Bvetores)-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Evals-25D366?style=for-the-badge" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fai-bug-triage.com.br%2Fpytest-badge.json&style=for-the-badge&logo=githubactions&logoColor=white&cacheSeconds=300" />
   <img src="https://img.shields.io/badge/Agentes_%26_Webhooks-2E7CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/MLOps_(CI%2FCD)-0DB7ED?style=for-the-badge&logo=githubactions&logoColor=white" />
